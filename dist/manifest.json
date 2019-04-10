@@ -1,7 +1,7 @@
 ﻿{
-    "manifest_version": 1,
+    "manifest_version": 2,
     "name": "MS Tab Modifier",
-    "version": "8.00.8",
+    "version": "0.22.0",
     "description": "Take control of your MS",
     "homepage_url": "https://github.com/sylouuu/chrome-tab-modifier",
 
